@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Bootcamp Back-end Python e Django
+### Semana 05 - Desafio 5: Explore o espaço com o Python e o Visual Studio Code
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Seguindo os módulos do roteiro de aprendizagem: Explore o espaço com o Python e o Visual Studio Code; inspirado pelo filme da Netflix "A Caminho da Lua" (https://learn.microsoft.com/pt-br/training/paths/explore-space-using-python/), é um treinamento do Microsoft Learn que apresenta um roteiro de aprendizagem baseado no filme "A Caminho da Lua". O filme conta a história de Fei Fei, uma garotinha que constrói um foguete para viajar à lua em busca de uma lendária deusa da lua. O texto relaciona a história do filme com os desafios enfrentados por engenheiros e astronautas reais da NASA ao prepararem missões lunares.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Os módulos de aprendizagem são inspirados no filme e na história da NASA, abordando princípios de ciência de dados, aprendizado de máquina e inteligência artificial com o uso de ferramentas como Python, Visual Studio Code e Azure. O objetivo é adquirir habilidades em tecnologia e resolver desafios relacionados à viagem espacial, incluindo a agregação de dados, manipulação de dados com Python, práticas éticas no desenvolvimento de IA e treinamento de modelos de IA de Visão Personalizada para reconhecimento de animais específicos.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Nestes módulos, foi possível:
+
+* Agregar dados de várias fontes em DataFrames do pandas
+* Usar Python para explorar, limpar e manipular dados
+* Treinar um modelo de IA de Visão Personalizada sobre um animal específico
